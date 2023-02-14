@@ -1,5 +1,5 @@
 java - multi-dimensional array
 
-javascript - stopwatch
+javascript - calculator
 
-python - alaram
+python - hangman game

@@ -1,77 +1,66 @@
+/* Variables */
+
+$orange : #ffa600;
+$grey : #f3f3f3;
+$white: #fff;
+$base-color:$orange;
+
+
+/* Mixins */
+@mixin transition {
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    transition: ease-in-out;
+}
+@mixin corners ($radius){
+    -moz-border-radius : $radius;
+    -webkit-border-radius: $radius;
+    border-radius :$radius;
+    -khtml-border-radius: $radius;
+}
+
 body {
-    background-color: dodgerblue;
-   
-    
+    background:orange;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    height:100%;
+}
+
+.wrapper {
+    width: 800px;
+    margin: 30px auto;
+    color: white;
+    text-align:center;
+
+}
+
+h1, h2, h3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-size: 2.6em;
+    text-transform: uppercase;
 }
 
 
-
-/* div {
-   border: 3px dashed red;
-   padding: 20px;
-   position: fixed;
-   top: 50%;
-   left: 50%;
-   -webkit-transform: translate(-50%, -50%);
-   -moz-transform: translate(-50%, -50%);
-   -o-transform: translate(-50%, -50%);
-   -ms-transform: translate(-50%, -50%);
-      
-    
-} */
-
-.container {
-    background-color: #ffffff;
-    width: 40%;
-    min-width: 500px;
-    position: absolute;
-    transform: translate(-50%, -50%);
-    top: 50%;
-    left: 50%;
-    padding: 50px;
-    border-radius: 10px;
+#seconds, #tens {
+    font-size : 2em;
 }
 
-.timerDisplay {
-    position: relative;
-    width: 90%;
-    background: #ffffff;
-    left: 4%;
-    padding: 40px 0;
-    font-family: 'Roboto mono', monospace;
-    color: #0381bb;
-    font-size: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
+button {
+    @include corners (5px);
     border-radius: 5px;
-    box-shadow: 0 0 20px rgba(0, 139, 253, 0.25);
-}
-
-.buttons {
-    width: 90%;
-    margin: 60px auto 0 auto;
-    display: flex;
-    justify-content: space-around;
-}
-
-.buttons button {
-    width: 120px;
-    height: 45px;
-    background-color: #205e94;
-    color: #ffffff;
-    border: none;
-    font-family: 'Poppins', sans-serif;
-    font-size: 18px;
+    background: orangered;
+    color: white;
+    border: solid 1px white;
+    text-decoration: none;
     cursor: pointer;
-    outline: none;
-    border-radius: 5px;
-}
-
-.buttons button:nth-last-child(2){
-    background-color: #d23332;
-}
-
-.buttons button:nth-last-child(1){
-    background-color: #20b380;
+    font-size: 1.2em;
+    padding: 18px 20px;
+    width: 180px;
+    margin: 10px;
+    &:hover{
+        @include transition;
+        background: white;
+        border: solid 1px white;
+        color: orange;
+    }
 }
