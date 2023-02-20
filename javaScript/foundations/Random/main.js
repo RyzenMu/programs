@@ -12,5 +12,5 @@ randNum = Math.random();
 
 input = document.getElementById('input');
 
-input.innerHTML = randNum;
+input.innerHTML = randNum * 1000;
 
