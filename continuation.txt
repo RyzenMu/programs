@@ -1,5 +1,5 @@
-java - recursion
+java - java setup in laptop
 
-javascript - calculator
+javascript - Submit Button from reference book
 
-python - hangman game
+python - 4.1 debugger from book

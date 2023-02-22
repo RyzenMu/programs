@@ -5,6 +5,27 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch Booleana",
+            "request": "launch",
+            "mainClass": "Booleana",
+            "projectName": "programs_e4e13b13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Print",
+            "request": "launch",
+            "mainClass": "Print",
+            "projectName": "programs_e4e13b13"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "programs_e4e13b13"
+        },
+        {
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
