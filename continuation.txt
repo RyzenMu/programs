@@ -2,4 +2,4 @@ java - java setup in laptop
 
 javascript - Number object page 628
 
-python - 4.1 debugger from book
+python - inverted triangle page 65
