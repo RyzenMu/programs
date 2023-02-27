@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Random",
+            "request": "launch",
+            "mainClass": "Random",
+            "projectName": "programs_e4e13b13"
+        },
+        {
+            "type": "java",
+            "name": "Launch oopsa",
+            "request": "launch",
+            "mainClass": "oopsa",
+            "projectName": "programs_e4e13b13"
+        },
+        {
+            "type": "java",
+            "name": "Launch OOPS",
+            "request": "launch",
+            "mainClass": "OOPS",
+            "projectName": "programs_e4e13b13"
+        },
+        {
+            "type": "java",
             "name": "Launch Booleana",
             "request": "launch",
             "mainClass": "Booleana",
