@@ -6,7 +6,9 @@ public class Random {
         
         Double r = Math.random() * 580;
 
-        System.out.println(r);
+        Long ro = Math.round(r);
+
+        System.out.println(ro);
     }
     
     

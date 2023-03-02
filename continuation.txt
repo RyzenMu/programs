@@ -1,5 +1,5 @@
-java - java setup in laptop
+java - classes, objects,and methods page 146
 
 javascript - Number object page 628
 
-python - chapter 14 Linked List page 387
+python - chapter 14 Linked List page 390

@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AssigningReferenceToSameObjects",
+            "request": "launch",
+            "mainClass": "AssigningReferenceToSameObjects",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "creatingRectArea",
+            "request": "launch",
+            "mainClass": "creatingRectArea",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "definingAClass",
+            "request": "launch",
+            "mainClass": "definingAClass",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "methodOverloading",
+            "request": "launch",
+            "mainClass": "methodOverloading",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "Random",
+            "request": "launch",
+            "mainClass": "Random",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
             "name": "Launch Random",
             "request": "launch",
             "mainClass": "Random",
