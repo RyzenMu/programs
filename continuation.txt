@@ -1,5 +1,5 @@
 java - classes, objects,and methods page 146
 
-javascript - Number object page 628
+javascript - Side Bar
 
 python - chapter 14 Linked List page 390
