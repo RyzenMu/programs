@@ -2,4 +2,4 @@ java - classes, objects,and methods page 146
 
 javascript - Side Bar
 
-python - chapter 14 Linked List page 390
+python - chapter 14 Linked List page 399
