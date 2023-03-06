@@ -1,5 +1,5 @@
-java - classes, objects,and methods page 146
+java - classes, objects,and methods page 148
 
-javascript - Side Bar
+javascript - History object 
 
 python - chapter 14 Linked List page 399
