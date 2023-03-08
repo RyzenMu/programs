@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "methover",
+            "request": "launch",
+            "mainClass": "methover",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "defaultConstructor",
+            "request": "launch",
+            "mainClass": "defaultConstructor",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "con1",
+            "request": "launch",
+            "mainClass": "con1",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "con",
+            "request": "launch",
+            "mainClass": "con",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "Con",
+            "request": "launch",
+            "mainClass": "Con",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
             "name": "Employee",
             "request": "launch",
             "mainClass": "Employee",
