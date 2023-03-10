@@ -1,6 +1,6 @@
 1
 
-class Node:
+class Node:#class node
     def __init__(self, value):
         '''
         Objective : To initialize an object of class Node Input parameters:
