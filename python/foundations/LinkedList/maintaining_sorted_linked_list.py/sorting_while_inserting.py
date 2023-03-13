@@ -36,5 +36,17 @@ class LinkedList:
         else:
             result = "Empty List"
         return result
+
+
+def main():
+    lst =LinkedList()
+    while 1:
+        value = input("Enter value to be inserted: ")
+        if value == "":
+            break
+        lst.insertSort(eval(value))
+        print("Current Linked List Status")
+        print(lst)
     
-    from 
+if __name__ == '__main__':
+    main()
