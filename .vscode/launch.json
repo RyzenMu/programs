@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NestingTest",
+            "request": "launch",
+            "mainClass": "NestingTest",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "nestingMethods",
+            "request": "launch",
+            "mainClass": "nestingMethods",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "Room",
+            "request": "launch",
+            "mainClass": "Room",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "a1",
+            "request": "launch",
+            "mainClass": "a1",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
             "name": "methover",
             "request": "launch",
             "mainClass": "methover",
