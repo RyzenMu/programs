@@ -1,6 +1,6 @@
 public class NestingTest {
     public static void main(String args[]){
-        Nesting nest = new Nesting(50, 40);
+        Nesting nest = new Nesting(50, 411);
         nest.display();
     }
 }
