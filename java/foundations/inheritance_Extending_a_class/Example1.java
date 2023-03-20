@@ -10,7 +10,7 @@ class Room1 {
     }
 }
 
-class BedRoom extends Room {
+class BedRoom extends Room1 {
     float height;
     float breadth;
     BedRoom(float x, float y, float z){
@@ -18,7 +18,7 @@ class BedRoom extends Room {
         height = z;
     }
     float volume1(){
-        return (length * breadth * height);
+        return (area() * height);
     }
 }
 
@@ -28,9 +28,9 @@ class Example1 {
 
     public static void main(String args[]){
         // Application of single inheritance
-        BedRoom room1 = new BedRoom(14,12, 10);
-        float area1 = room1.area();
-        float volume1 = room1.volume1();
+        BedRoom room11 = new BedRoom(14,12, 10);
+        float area1 = room11.area();
+        float volume1 = room11.volume1();
         System.out.println("Area 1 :" + area1);
         System.out.println("Volume 1 : " + volume1);
 
