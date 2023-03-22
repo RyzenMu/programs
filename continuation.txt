@@ -1,5 +1,5 @@
 java - classes, objects,and methods page 155
 
-javascript - Bitwise shift right and asignment operator - 76
+javascript - filter page 271
 
 python - chapter 14 Linked List page 401
