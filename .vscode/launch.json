@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "overRidingMethods",
+            "request": "launch",
+            "mainClass": "overRidingMethods",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "hierarchical_Inheritance",
+            "request": "launch",
+            "mainClass": "hierarchical_Inheritance",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
             "name": "Multi_level_inheritance",
             "request": "launch",
             "mainClass": "Multi_level_inheritance",

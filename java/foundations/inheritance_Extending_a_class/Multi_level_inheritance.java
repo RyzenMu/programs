@@ -8,6 +8,7 @@ class Animals{
     }
     void printa(){
         System.out.println(("The name of animal is : "+ name));
+        System.out.println("The age of the Lion is : " + life);
     }
 }
 class WildAnimals extends Animals{
