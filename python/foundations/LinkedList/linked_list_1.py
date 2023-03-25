@@ -13,6 +13,8 @@ def main():
     nnode1.next = NNode(24)
     nnode1.next.next = NNode(36)
     nnode1.next.next.next = NNode(48)
+    nnode1.next.next.next.next = NNode(48)
+
     print(nnode1.next.next.next.data)
     print(nnode1.next.next.next.next)
 
