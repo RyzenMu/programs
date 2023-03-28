@@ -2,4 +2,4 @@ java - classes, objects,and methods page 155
 
 javascript - filter page 271
 
-python - chapter 14 Linked List page 407
+python - chapter 1 keywords page 13
