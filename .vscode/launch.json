@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "finalClass",
+            "request": "launch",
+            "mainClass": "finalClass",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "finalKeyword",
+            "request": "launch",
+            "mainClass": "finalKeyword",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
             "name": "overRidingMethods",
             "request": "launch",
             "mainClass": "overRidingMethods",
