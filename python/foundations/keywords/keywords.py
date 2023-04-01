@@ -25,3 +25,7 @@ try:
     assert 10 < 5
 except AssertionError:
     print("enter correct number")
+
+
+#example 2
+assert 5 > 10
