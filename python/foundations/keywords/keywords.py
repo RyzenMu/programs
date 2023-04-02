@@ -14,6 +14,18 @@ for n in range(1, 11):
         print(n, sep="-", end="-")
 print(end="\n")
 
+#4. in keyword
+list_1 = ['ara', 'oma', 'skp', 'kus']
+for item in list_1:
+    item += "//"
+    print(item)
+if "oma" in list_1:
+    print("True True True")
+
+#5 non local
+
+
+
 
 #3. Assert
 # assert will give assertion error if a condtion fails
