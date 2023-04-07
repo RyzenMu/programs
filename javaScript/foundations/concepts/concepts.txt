@@ -1,0 +1,6 @@
+1. promises, promises.then().catch().finally
+2. destructuring
+3. map, filter, reduce
+4. for each
+5. let , const, var
+6. 
