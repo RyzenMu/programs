@@ -3,4 +3,7 @@
 3. map, filter, reduce
 4. for each
 5. let , const, var
-6. 
+6. jQuery
+7. Ajax
+8. jSon
+9.
