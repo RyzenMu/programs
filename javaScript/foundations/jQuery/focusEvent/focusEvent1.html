@@ -5,19 +5,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="../jQueryTutorialTamil/installation/jQueymin.js"></script>
-    <title>J Query Syntax</title>
-
+    <title>Focus Event</title>
 </head>
 <body>
-    <input type="button" value="Click" id="button">
+    Enter Your Name <input type="text" name="text" id="text1">
 
     <script>
         $(document).ready(function(){
-            $("#button").click(function(){
-                $('#button').hide();
+            $("#text1").focus(function(){
+
+                $(this).css({"background-color": "silver", "font-size" : 25} );
             });
-            
         });
+        
     </script>
     
 </body>

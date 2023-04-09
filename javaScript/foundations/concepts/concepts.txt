@@ -6,4 +6,5 @@
 6. jQuery
 7. Ajax
 8. jSon
-9.
+9. closures
+10.
