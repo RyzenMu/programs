@@ -4,6 +4,7 @@ public class abstractClass1 {
         funk2();
         Person p1 = new Person("Apeil", 12);
         p1.details();
+        
     }
     static void funk1(){
         System.out.println("This is function 1");
