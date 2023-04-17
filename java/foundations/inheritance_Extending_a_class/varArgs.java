@@ -1,13 +1,18 @@
-class Calc {
-    public void message(){
-        System.out.println("Today is April");
-    }
-}
+
 
 public class varArgs{
     public static void main(String[] args){
-        System.out.println(90);
-        Calc c1 = new Calc();
-        System.out.println(c1.message());
+        System.out.println(print(2, 3, 9, 6));
+        
+    }
+
+    public static int print(int... a){
+        int result;
+        result =0;
+        for (int i : a){
+            result += i;
+        }
+        return result;
+        
     }
 }

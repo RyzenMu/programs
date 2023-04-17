@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "dynamicMethodDispath",
+            "request": "launch",
+            "mainClass": "java.foundations.dynamicmethodDispath.dynamicMethodDispath",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "varArgs2",
+            "request": "launch",
+            "mainClass": "varArgs2",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "varArgs1",
+            "request": "launch",
+            "mainClass": "varArgs1",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
             "name": "varArgs",
             "request": "launch",
             "mainClass": "varArgs",
