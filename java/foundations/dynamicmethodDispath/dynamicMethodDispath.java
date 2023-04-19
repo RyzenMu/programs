@@ -1,9 +1,20 @@
-package java.foundations.dynamicmethodDispath;
+class Super{
+    public void method(){
+        System.out.println("Method Super");
+    }
 
+}
+
+class Sub extends Super{
+    public void method(){
+        System.out.println("Method Sub");
+    }
+}
 public class dynamicMethodDispath {
     public static void main(String args[]){
-        System.out.println("Dynamic Method Dispath");
-        System.out.println("Dynamic Method Dispath");
+        Super A = new Sub(); // Sub's object reference assigned Super type reference variable
+        A.method();
+        
 
     }
 }
