@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "graphics1",
+            "request": "launch",
+            "mainClass": "graphics1",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "graphicsClass",
+            "request": "launch",
+            "mainClass": "graphicsClass",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
             "name": "DMD",
             "request": "launch",
             "mainClass": "DMD",
