@@ -6,7 +6,7 @@ public class Arraya {
 
     public static void main(String[] args){
 
-        String[] mobiles = {"lava", "micromax", "inflinix", "itel", "Karbonn"};
+        String[] mobiles = {"lava", "micromax", "inflinix", "itel", "Karbonn", "samsung"};
 
         mobiles[0]  = "spice";
 
