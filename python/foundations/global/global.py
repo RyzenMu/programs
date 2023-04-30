@@ -7,3 +7,7 @@ func()
 
 print("the python is ", inner)
 print("the python is ", inner)
+print("the python is ", inner)
+print("the python is ", inner)
+
+

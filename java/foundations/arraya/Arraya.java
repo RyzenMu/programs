@@ -22,6 +22,8 @@ public class Arraya {
 
         for (int w =0; w < mobiles.length; w++){
             System.out.println("the price of " + mobiles[w] + " is " + mob_rates[w]);
+            System.out.println("the price of " + mobiles[w] + " is " + mob_rates[w]);
+
         }
 
 
