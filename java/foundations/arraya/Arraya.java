@@ -24,6 +24,8 @@ public class Arraya {
             System.out.println("the price of " + mobiles[w] + " is " + mob_rates[w]);
             System.out.println("the price of " + mobiles[w] + " is " + mob_rates[w]);
             System.out.println("the price of " + mobiles[w] + " is " + mob_rates[w]);
+            System.out.println("the price of " + mobiles[w] + " is " + mob_rates[w]);
+
 
 
         }
