@@ -1,7 +1,4 @@
 import java.applet.Applet;
-import java.awt.Color;
-import java.awt.Font;
-import java.awt.Graphics;
 
 public class graphics1 extends Applet {
     String s = new String();
