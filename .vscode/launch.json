@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Arraya",
+            "request": "launch",
+            "mainClass": "Arraya",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "Fora",
+            "request": "launch",
+            "mainClass": "Fora",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "graphics2",
+            "request": "launch",
+            "mainClass": "graphics2",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
             "name": "graphics1",
             "request": "launch",
             "mainClass": "graphics1",
