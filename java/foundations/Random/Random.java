@@ -9,6 +9,8 @@ public class Random {
         Long ro = Math.round(r);
 
         System.out.println(ro);
+        System.out.println(ro);
+
     }
     
     
