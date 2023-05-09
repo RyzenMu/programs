@@ -10,6 +10,8 @@ public class Random {
 
         System.out.println(ro);
         System.out.println(ro);
+        System.out.println(ro);
+
 
     }
     
