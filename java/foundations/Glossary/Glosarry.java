@@ -18,6 +18,7 @@ public class Glosarry {
          * javac_g
          * JDBC - a database access Api
          * runnable interface
+         *
          * 
          * 
          * 
