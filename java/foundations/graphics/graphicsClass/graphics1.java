@@ -13,6 +13,8 @@ public class graphics1 extends Applet {
         s = f2.toString();
         GA.drawString(s2, 5, 560);
         GA.drawString(s2, 5, 560);
+        GA.drawString(s2, 5, 560);
+
 
 
     
