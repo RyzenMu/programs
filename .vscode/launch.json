@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Booleana",
+            "request": "launch",
+            "mainClass": "Booleana",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
             "name": "Arraya",
             "request": "launch",
             "mainClass": "Arraya",
