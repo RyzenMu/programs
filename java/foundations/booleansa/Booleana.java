@@ -4,7 +4,7 @@ public class Booleana {
 
     public static void main(String[] args) {
 
-        // initializing a boolean
+        // initializing a booleannnn
         boolean a = true;
         System.out.println("condition of a is :" +  a);
         System.out.println("condition of !a is :" +  !a);
