@@ -3,7 +3,7 @@ class Bed:
         self.name = name
         self.color = color
 
-b1 = Bed("muruga", "black")
+b1 = Bed("muruga", "blamck")
 
 print(b1.color)
 print(b1.name)

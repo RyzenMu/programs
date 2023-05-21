@@ -3,7 +3,7 @@
 
 expression = 'x*x + 2*x' # expression is to be string
 
-x = 5
+x = 57
 
 print(eval(expression))
 
