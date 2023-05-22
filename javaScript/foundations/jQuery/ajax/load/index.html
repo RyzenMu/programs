@@ -16,7 +16,16 @@
  <script>
     $(document).ready(function(){
       alert('Ok');
-      $('button').load('text.html');
+      $('button').load('test.html', function(res, status, xhr){
+
+          if (status == "success"){
+            alert("success");
+          }
+          else if (status == "error"){
+            alert("error" + xhr.status)
+          }
+
+      });
     });
  </script>
 
