@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "appletCode",
+            "request": "launch",
+            "mainClass": "appletCode",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "appletCode",
+            "request": "launch",
+            "mainClass": "java.foundations.graphics.AWT.appletCode",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
             "name": "Booleana",
             "request": "launch",
             "mainClass": "Booleana",
