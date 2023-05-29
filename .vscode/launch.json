@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "relationalOperators",
+            "request": "launch",
+            "mainClass": "relationalOperators",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "realArithmetic",
+            "request": "launch",
+            "mainClass": "realArithmetic",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "realArithmetic",
+            "request": "launch",
+            "mainClass": "java.foundations.operatorsAndExpressions.realArithmetic",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
             "name": "appletCode",
             "request": "launch",
             "mainClass": "appletCode",
