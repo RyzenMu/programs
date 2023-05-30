@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "genericsClass",
+            "request": "launch",
+            "mainClass": "genericsClass",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "generics",
+            "request": "launch",
+            "mainClass": "generics",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "typeConversion1",
+            "request": "launch",
+            "mainClass": "typeConversion1",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "typeConversion",
+            "request": "launch",
+            "mainClass": "typeConversion",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "instaneOfOperator",
+            "request": "launch",
+            "mainClass": "instaneOfOperator",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "conditionalOperator",
+            "request": "launch",
+            "mainClass": "conditionalOperator",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "incrementDecrementOperators",
+            "request": "launch",
+            "mainClass": "incrementDecrementOperators",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "logicalOperators",
+            "request": "launch",
+            "mainClass": "logicalOperators",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
             "name": "relationalOperators",
             "request": "launch",
             "mainClass": "relationalOperators",
