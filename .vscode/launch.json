@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "example2",
+            "request": "launch",
+            "mainClass": "example2",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "example1",
+            "request": "launch",
+            "mainClass": "example1",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
+            "name": "example1",
+            "request": "launch",
+            "mainClass": "java.foundations.mathematicalFunctions.example1",
+            "projectName": "programs_f97580b4"
+        },
+        {
+            "type": "java",
             "name": "genericsClass",
             "request": "launch",
             "mainClass": "genericsClass",
