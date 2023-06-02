@@ -10,3 +10,4 @@ print(strFinal)
 
 str = " t t "
 print(str*5 + strFinal)
+print(str*5 + strFinal)
