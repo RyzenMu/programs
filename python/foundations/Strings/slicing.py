@@ -14,3 +14,5 @@ print(str[-15:-1])
 #value after index number
 print(str[:566])
 print(str[566:])
+print(str[:566])
+print(str[566:])
