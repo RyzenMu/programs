@@ -11,3 +11,11 @@ print(strFinal)
 str = " t t "
 print(str*5 + strFinal)
 print(str*5 + strFinal)
+
+
+#with increment
+
+str = "saturday"
+
+str6 = str[ : :2]
+print(str6)
