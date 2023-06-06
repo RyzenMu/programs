@@ -1,5 +1,15 @@
 # joins a delimitor at the end of every string
 
-lst = "mini-truck activan auto dio tvs-50"
+delitr = "<"
 
-print(lst.join(','))
+str = ["tvs-50", "tvs-star city", "ashok-leyland", "407"]
+
+result = delitr.join(str)
+
+print(result)
+
+delitr = " "
+
+result = delitr.join(str)
+
+print(result)
