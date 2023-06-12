@@ -31,7 +31,7 @@ public class Fora {
         System.out.println("--------------------------");
 
         //@nd example for-each loop
-        String[] k = {"Chola", "Chera", "Pandias", "pallva", "devars"};
+        String[] k = {"Chola", "Chera", "Pandias", "pallva", "devars", "rashtrakutas"};
         for (String king: k){
             System.out.println(king);
         }
