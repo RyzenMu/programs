@@ -15,7 +15,6 @@ print(ara)
 
 
 
-
 exit()
 
 
